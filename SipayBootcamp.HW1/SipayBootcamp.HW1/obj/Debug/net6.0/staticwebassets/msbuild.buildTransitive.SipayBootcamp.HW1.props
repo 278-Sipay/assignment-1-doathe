@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SipayBootcamp.HW1.props" />
-</Project>
