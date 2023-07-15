@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SipayBootcamp.HW1.props" />
+</Project>
